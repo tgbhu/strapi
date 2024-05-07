@@ -37,7 +37,7 @@
 
 <br>
 
-Strapi Community Edition is a free and open-source headless CMS enabling you to manage any content, anywhere.
+Strapi AZ400 Edition is a free and open-source headless CMS enabling you to manage any content, anywhere.
 
 - **Self-hosted or Cloud**: You can host and scale Strapi projects the way you want. You can save time by deploying to [Strapi Cloud](https://cloud.strapi.io/signups?source=github1) or deploy to the hosting platform you want\*\*: AWS, Azure, Google Cloud, DigitalOcean.
 - **Modern Admin Panel**: Elegant, entirely customizable and a fully extensible admin panel.
